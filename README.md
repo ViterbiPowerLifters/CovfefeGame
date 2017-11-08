@@ -4,11 +4,11 @@ This is the website of the game **Covfefe - The White House Intern**.
 
 Authors: 
 
-Teague Ashcraft
-Eric Hachuel
-Adam Goldfaden
-Pablo Giudice 
-Bruno Mazetti
+	Teague Ashcraft
+	Eric Hachuel
+	Adam Goldfaden
+	Pablo Giudice 
+	Bruno Mazetti
 
 
-This is a readme
+![](covfefe.png)
