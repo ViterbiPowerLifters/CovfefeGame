@@ -1,14 +1,22 @@
 # Covfefe - The White House Intern
 
-This is the website of the game **Covfefe - The White House Intern**. 
+## Story 
 
-Authors: 
+Youtube trailer TBD
 
-	Teague Ashcraft
-	Eric Hachuel
-	Adam Goldfaden
-	Pablo Giudice 
-	Bruno Mazetti
+
+## Authors
+
+-Matheos Asfaw 
+-Teague Ashcraft
+-Eric Hachuel
+-Adam Goldfaden
+-Pablo Giudice 
+-Bruno Mazetti
 
 
 ![](covfefe.png)
+
+This is the website of the game **Covfefe - The White House Intern**. 
+
+(C) 2017
