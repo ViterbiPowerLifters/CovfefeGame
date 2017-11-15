@@ -1,0 +1,9 @@
+.circular_square {
+  border-radius: 50%;
+    height: 200px;
+}
+
+
+.picture_holder {
+    margin:0 auto;
+}
