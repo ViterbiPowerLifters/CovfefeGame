@@ -1,4 +1,4 @@
-# Covfefe - The White House Intern
+# Covfefe - White House Intern
 
 ## Story 
 
@@ -17,6 +17,6 @@ Youtube trailer TBD
 
 ![](covfefe.png)
 
-This is the website of the game **Covfefe - The White House Intern**. 
+This is the website of the game **Covfefe - White House Intern**. 
 
 (C) 2017
