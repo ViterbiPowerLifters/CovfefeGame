@@ -1,6 +1,9 @@
 .circular_square {
-  border-radius: 50%;
-    height: 150px;
+    border-radius: 50%;
+    height:80%;
+    width:80%;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 
@@ -9,18 +12,14 @@
 }
 
 .col_box {
-    margin: 10px;
+    margin: 5px;
     background-blend-mode: darken;
     padding-left: 0px;
     border-radius: 5px;
-        background: rgba(90, 54, 54, 0.5);
-    width:200px;
+    background: rgba(90, 54, 54, 0.5);
+    width:23%;
 }
 
 .col_box p{
     margin:0px;
-}
-
-.container_box {
-
 }
